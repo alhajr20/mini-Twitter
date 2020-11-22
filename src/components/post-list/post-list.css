@@ -1,0 +1,13 @@
+.twitts-list {
+  list-style: none;
+  margin: auto;
+  margin-top: 50px;
+  padding: 0;
+  min-height: 239px;
+}
+.twitts-list .twitts-item {
+  padding: 20px 35px 10px 35px;
+  margin-top: 10px;
+  background-color: #fff;
+  border: 1px solid #00ACEE;
+}

@@ -1,0 +1,24 @@
+.bottom-panel {
+  margin-top: 20px;
+}
+
+.bottom-panel input {
+  border-radius: 30px;
+}
+
+.bottom-panel button {
+  border-radius: 30px;
+  background-color: #00ACEE;
+  color: #fff;
+}
+
+.bottom-panel button:hover {
+  color: #fff;
+  background-color: #009ddb;
+}
+
+.bottom-panel .new-post-label {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}

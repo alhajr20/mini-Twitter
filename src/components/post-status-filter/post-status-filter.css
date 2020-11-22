@@ -1,0 +1,13 @@
+.filterBtn {
+    margin-right: 10px;
+}
+.filterBtn, .filterBtnSecond {
+    border-radius: 30px;
+    background-color: #00ACEE;
+    color: #fff;
+}
+
+.filterBtn:hover, .filterBtnSecond:hover {
+    background-color: #009ddb;
+    color: #fff;
+}
